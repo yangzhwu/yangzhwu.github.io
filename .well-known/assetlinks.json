@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cmic.sso.myapplication",
+    "sha256_cert_fingerprints":
+    ["FF:D9:62:8E:91:E7:3F:48:A9:D9:63:F6:D9:B2:C4:8A:95:3C:7C:DB:D7:A9:99:81:3C:7F:2A:FB:98:89:89:C0"]
+  }
+}]
